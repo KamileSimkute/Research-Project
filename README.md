@@ -19,7 +19,6 @@ This research project explores the historical, technical, and social aspects of 
 10. [Political and Social Implications](#political-and-social-implications)
 11. [Conclusion](#conclusion)
 12. [Academic Recognition](#academic-recognition)
-13. [Contact](#contact)
 
 ## Introduction
 - Background on Tor
